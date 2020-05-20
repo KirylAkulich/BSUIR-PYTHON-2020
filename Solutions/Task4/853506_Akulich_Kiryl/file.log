@@ -1,0 +1,41 @@
+2020-05-19 21:19:27,269 django.utils.autoreload - INFO:Watching for file changes with StatReloader
+2020-05-19 21:20:44,511 django.request - WARNING:Not Found: /blog/upload/garden_cat_03.jpg
+2020-05-19 21:20:44,514 django.request - WARNING:Not Found: /blog/images/version/garden-logo.png
+2020-05-19 21:20:44,518 django.request - WARNING:Not Found: /blog/upload/garden_cat_01.jpg
+2020-05-19 21:20:44,521 django.request - WARNING:Not Found: /blog/upload/garden_cat_02.jpg
+2020-05-19 21:20:44,524 django.request - WARNING:Not Found: /blog/upload/garden_sq_08.jpg
+2020-05-19 21:20:44,527 django.request - WARNING:Not Found: /blog/images/version/garden-footer-logo.png
+2020-05-19 21:21:17,796 useractivity - INFO:User Akula registered
+2020-05-19 21:21:20,668 useractivity - INFO:Confirm message was sended to kirillakulich0@gmail.com
+2020-05-19 21:21:20,758 django.request - WARNING:Not Found: /blog/images/version/garden-logo.png
+2020-05-19 21:21:20,766 django.request - WARNING:Not Found: /blog/upload/garden_cat_01.jpg
+2020-05-19 21:21:20,774 django.request - WARNING:Not Found: /blog/upload/garden_cat_03.jpg
+2020-05-19 21:21:20,776 django.request - WARNING:Not Found: /blog/upload/garden_sq_08.jpg
+2020-05-19 21:21:20,778 django.request - WARNING:Not Found: /blog/upload/garden_cat_02.jpg
+2020-05-19 21:21:20,783 django.request - WARNING:Not Found: /blog/images/version/garden-footer-logo.png
+2020-05-19 21:32:18,583 django.request - WARNING:Not Found: /blog/post_detail/upload/garden_single_01.jpg
+2020-05-19 21:32:18,589 django.request - WARNING:Not Found: /blog/post_detail/images/version/garden-logo.png
+2020-05-19 21:32:18,593 django.request - WARNING:Not Found: /blog/post_detail/upload/banner_01.jpg
+2020-05-19 21:32:18,598 django.request - WARNING:Not Found: /blog/post_detail/images/version/garden-footer-logo.png
+2020-05-19 21:32:18,604 django.request - WARNING:Not Found: /blog/post_detail/upload/banner_04.jpg
+2020-05-19 21:36:50,015 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-19 21:36:50,240 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 05:11:39,926 django.utils.autoreload - INFO:Watching for file changes with StatReloader
+2020-05-20 05:12:12,507 django.request - WARNING:Not Found: /
+2020-05-20 05:12:14,007 django.request - WARNING:Not Found: /favicon.ico
+2020-05-20 05:12:28,502 django.request - WARNING:Not Found: /blog/images/version/garden-logo.png
+2020-05-20 05:12:28,511 django.request - WARNING:Not Found: /blog/upload/garden_cat_01.jpg
+2020-05-20 05:12:28,519 django.request - WARNING:Not Found: /blog/upload/garden_cat_02.jpg
+2020-05-20 05:12:28,523 django.request - WARNING:Not Found: /blog/upload/garden_cat_03.jpg
+2020-05-20 05:12:28,532 django.request - WARNING:Not Found: /blog/upload/garden_sq_08.jpg
+2020-05-20 05:12:28,546 django.request - WARNING:Not Found: /blog/images/version/garden-footer-logo.png
+2020-05-20 05:18:19,913 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 05:18:20,162 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 05:18:26,572 django.utils.autoreload - INFO:Watching for file changes with StatReloader
+2020-05-20 05:18:34,775 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 07:45:23,832 django.utils.autoreload - INFO:Watching for file changes with StatReloader
+2020-05-20 07:49:40,971 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 07:49:41,218 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 10:02:26,745 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 10:02:47,507 asyncio - DEBUG:Using selector: EpollSelector
+2020-05-20 10:03:03,814 asyncio - DEBUG:Using selector: EpollSelector
